@@ -12,7 +12,7 @@
 
 A contact system to detect world collision.
 
-
+![Collision](https://github.com/VRLabs/Collision-Detection/assets/76777936/11b91ef5-b2d4-413d-81b2-f857a2b4bf85)
 
 ### ⬇️ [Download Latest Version](https://github.com/VRLabs/Collision-Detection/releases/latest)
 
@@ -29,7 +29,7 @@ A contact system to detect world collision.
 
 ## Install guide
 
-
+https://github.com/VRLabs/Collision-Detection/assets/76777936/f9e0b70a-c5ff-43a6-a0ad-b7a3e49f3a63
 
 * Merge the Animator Controller ``Collision Detection FX`` to your own FX Controller, using the [Avatars 3.0 Manager](https://github.com/VRLabs/Avatars-3.0-Manager) tool.
 * Drag & drop the ``Collision Detection`` prefab into the base of your Hierarchy.
