@@ -39,7 +39,7 @@ https://github.com/VRLabs/Collision-Detection/assets/76777936/f9e0b70a-c5ff-43a6
 
 ## How to use
 
-* After parent constraining/moving the object as needed, you're good to go.
+* After parent constraining/moving the object as needed, you can scale the object to obtain the desired range.
   * Note: To change the collision requirements, you can change the Layers in the `collision` module, or disable the `collision` module and enable the `triggers` module to select specific trigger colliders.
 
 There are three important bools in your FX Controller:
