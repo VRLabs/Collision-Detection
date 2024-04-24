@@ -17,7 +17,7 @@
   "legacyFolders": {
     "Assets\\VRLabs\\Collision Detection": "1b7ffa2cfaa4355428a147133e387cd1"
   },
-  "unityPackageDestinationFolder": "Assets/VRLabs/Contact Tracker",
+  "unityPackageDestinationFolder": "Assets/VRLabs/Collision Detection",
   "vccRepoCategory": "components",
   "media": {
     "previewImage": "https://raw.githubusercontent.com/VRLabs/Collision-Detection/main/Media/Web/Preview.webp",
@@ -25,6 +25,6 @@
   },
   "unityPackageDestinationFolderMetas": {
     "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-    "Assets/VRLabs/Contact Tracker": "1b7ffa2cfaa4355428a147133e387cd1"
+    "Assets/VRLabs/Collision Detection": "1b7ffa2cfaa4355428a147133e387cd1"
   }
 }
